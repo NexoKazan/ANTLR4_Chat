@@ -1,6 +1,6 @@
-C:\0MyDesktop\ANTLR_HelloWorld\ANTLR_HelloWorld\obj\Debug\SpeakLexer.cs
-C:\0MyDesktop\ANTLR_HelloWorld\ANTLR_HelloWorld\obj\Debug\SpeakParser.cs
-C:\0MyDesktop\ANTLR_HelloWorld\ANTLR_HelloWorld\obj\Debug\SpeakListener.cs
-C:\0MyDesktop\ANTLR_HelloWorld\ANTLR_HelloWorld\obj\Debug\SpeakBaseListener.cs
-C:\0MyDesktop\ANTLR_HelloWorld\ANTLR_HelloWorld\obj\Debug\SpeakVisitor.cs
-C:\0MyDesktop\ANTLR_HelloWorld\ANTLR_HelloWorld\obj\Debug\SpeakBaseVisitor.cs
+C:\Users\Igor\Documents\GitHub\ANTLR4_Chat\ANTLR_HelloWorld\obj\Debug\SpeakLexer.cs
+C:\Users\Igor\Documents\GitHub\ANTLR4_Chat\ANTLR_HelloWorld\obj\Debug\SpeakParser.cs
+C:\Users\Igor\Documents\GitHub\ANTLR4_Chat\ANTLR_HelloWorld\obj\Debug\SpeakListener.cs
+C:\Users\Igor\Documents\GitHub\ANTLR4_Chat\ANTLR_HelloWorld\obj\Debug\SpeakBaseListener.cs
+C:\Users\Igor\Documents\GitHub\ANTLR4_Chat\ANTLR_HelloWorld\obj\Debug\SpeakVisitor.cs
+C:\Users\Igor\Documents\GitHub\ANTLR4_Chat\ANTLR_HelloWorld\obj\Debug\SpeakBaseVisitor.cs

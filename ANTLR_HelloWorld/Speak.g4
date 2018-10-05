@@ -1,5 +1,4 @@
 grammar Speak;
-/* input format : Nickname says "what he say" 
 
 /*
  * Parser Rules

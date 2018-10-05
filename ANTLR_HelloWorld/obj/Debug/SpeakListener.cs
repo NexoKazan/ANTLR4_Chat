@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-// Generated from C:\0MyDesktop\ANTLR_HelloWorld\ANTLR_HelloWorld\Speak.g4 by ANTLR 4.6.6-SNAPSHOT
+// Generated from C:\Users\Igor\Documents\GitHub\ANTLR4_Chat\ANTLR_HelloWorld\Speak.g4 by ANTLR 4.6.6-SNAPSHOT
 
 // Unreachable code detected
 #pragma warning disable 0162
