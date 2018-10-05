@@ -41,6 +41,7 @@ namespace ANTLR_HelloWorld
             {
                 Console.WriteLine("Error: " + ex);
             }
+            Console.ReadKey();
         }
     }
   

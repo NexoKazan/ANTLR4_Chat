@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-// Generated from C:\Users\Igor\Documents\GitHub\ANTLR4_Chat\ANTLR_HelloWorld\Speak.g4 by ANTLR 4.6.6-SNAPSHOT
+// Generated from C:\0MyDesktop\Magistr\ANTLR\ANTLR4_Chat\ANTLR_HelloWorld\Speak.g4 by ANTLR 4.6.6-SNAPSHOT
 
 // Unreachable code detected
 #pragma warning disable 0162
@@ -39,6 +39,7 @@ public partial class SpeakParser : Parser {
 	};
 
 	private static readonly string[] _LiteralNames = {
+		null, "':'"
 	};
 	private static readonly string[] _SymbolicNames = {
 		null, "SAYS", "WORD", "TEXT", "WHITESPACE", "NEWLINE"

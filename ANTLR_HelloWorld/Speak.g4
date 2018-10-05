@@ -20,7 +20,7 @@ fragment Y          : ('Y'|'y') ;
 fragment LOWERCASE  : [a-z] ;
 fragment UPPERCASE  : [A-Z] ;
 
-SAYS                : S A Y S ;
+SAYS                : ':' ;
 WORD                : (LOWERCASE | UPPERCASE)+ ;
 TEXT		    : '"' .*? '"' ;
 WHITESPACE          : (' '|'\t')+ -> skip ;
